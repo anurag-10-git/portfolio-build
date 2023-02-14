@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90ee7eed.css",
+    "main.js": "/static/js/main.acd7c51b.js",
+    "static/media/travelpage.png": "/static/media/travelpage.f9db6877975f152501f3.png",
+    "static/media/omnifood.png": "/static/media/omnifood.ad27ed62749415d7a556.png",
+    "static/media/portfolio.jpeg": "/static/media/portfolio.4651a3a427b3585736d5.jpeg",
+    "static/media/crypto.png": "/static/media/crypto.3ff883449084316a16cb.png",
+    "static/media/bankist.png": "/static/media/bankist.da9c8ffa9bb1134cd365.png",
+    "static/media/expkart.png": "/static/media/expkart.d72d8e07dd5350915e46.png",
+    "static/media/resume.pdf": "/static/media/resume.ff3da9360ad85cea5bdf.pdf",
+    "static/media/portfolio2.jpeg": "/static/media/portfolio2.1d50a614ebc2840a35e7.jpeg",
+    "static/media/talksocket.png": "/static/media/talksocket.88fec87f596c7763fc40.png",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "index.html": "/index.html",
+    "main.90ee7eed.css.map": "/static/css/main.90ee7eed.css.map",
+    "main.acd7c51b.js.map": "/static/js/main.acd7c51b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ee7eed.css",
+    "static/js/main.acd7c51b.js"
+  ]
+}
